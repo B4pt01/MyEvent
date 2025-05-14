@@ -136,7 +136,7 @@ APP/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/B4pt_01/MyEvent.git
+git clone [https://github.com/B4pt_01/MyEvent.git](https://github.com/B4pt01/MyEvent.git)
 cd MyEvent
 ```
 
